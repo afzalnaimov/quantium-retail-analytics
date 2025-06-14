@@ -1,13 +1,13 @@
 # quantium-retail-analytics
 Data analytics project from Quantium Virtual Internship. Focused on chips category insights and trial store evaluation.
 
-Overview
+#Overview
 
 This project analyzes customer transaction data to uncover purchase behavior trends in the chips category and evaluates the impact of a promotional campaign in a trial store.
 
 ⸻
 
-Business Context
+#Business Context
 
 As part of Quantium’s retail analytics division, the goal was to:
 	•	Segment chip shoppers based on affluence and life stage
@@ -16,7 +16,7 @@ As part of Quantium’s retail analytics division, the goal was to:
 
 ⸻
 
-Key Tasks
+#Key Tasks
 
 Task 1: Customer Segmentation
 	•	Cleaned and merged transaction and customer datasets
@@ -34,7 +34,7 @@ Task 3: Strategic Presentation
 
 ⸻
 
-Tools & Skills Used
+#Tools & Skills Used
 	•	Python (Pandas, Seaborn, Matplotlib)
 	•	Git & GitHub
 	•	PowerPoint for final stakeholder presentation
@@ -42,7 +42,7 @@ Tools & Skills Used
 
 ⸻
 
-Key Insights
+#Key Insights
 	•	Mainstream and budget families drive most chip sales
 	•	Promotional trial in Store 77 led to a clear increase in sales and customer count
 	•	Control store analysis confirmed the uplift was due to the promotion, not seasonality
