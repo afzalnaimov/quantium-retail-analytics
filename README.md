@@ -61,9 +61,14 @@ As part of Quantium’s retail analytics division, the goal was to:
 ## How to Run
 
 1. Clone this repository to your local machine:  
-   *git clone https://github.com/your-username/quantium-retail-analytics.git*  
+   *git clone https://github.com/afzalnaimov/quantium-retail-analytics.git*  
    *cd quantium-retail-analytics*  
 2. Run analysis scripts:  
    *python scripts/task1_customer_segmentation.py*  
    *python scripts/task2_campaign_analysis.py*  
 3. View generated charts in the `/charts` folder and insights in the presentation PDF.
+
+---
+👤 Created by [Afzal Naimov](https://www.linkedin.com/in/afzal-naimov/)
+
+📬 Feel free to connect or reach out for collaboration or feedback!
