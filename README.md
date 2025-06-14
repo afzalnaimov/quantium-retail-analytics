@@ -5,7 +5,8 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/afzalnaimov/quantium-retail-analytics)
 
 ---
-[📊 View Final Presentation](presentation/Quantium_Presentation.pdf)
+[📊 View Final Presentation](presentation/Quantium_presentation.pdf)
+
 ## Table of Contents
 - [Overview](#overview)
 - [Business Context](#business-context)
