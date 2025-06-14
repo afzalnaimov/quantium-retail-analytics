@@ -1,7 +1,7 @@
 # quantium-retail-analytics
 Data analytics project from Quantium Virtual Internship. Focused on chips category insights and trial store evaluation.
 
-#Overview
+##Overview
 
 This project analyzes customer transaction data to uncover purchase behavior trends in the chips category and evaluates the impact of a promotional campaign in a trial store.
 
