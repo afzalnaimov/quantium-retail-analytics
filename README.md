@@ -3,7 +3,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![GitHub last commit](https://img.shields.io/github/last-commit/afzalnaimov/quantium-retail-analytics)
-
+ 
 ---
 [📊 View Final Presentation](presentation/Quantium_presentation.pdf)
 
